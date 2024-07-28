@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver as funcionalidades de uma aplicação de Solicitação de reembolso.
+Nesse projeto foram desenvolvidas as funcionalidades de uma aplicação de Solicitação de reembolso.
